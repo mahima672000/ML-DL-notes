@@ -12,4 +12,8 @@ file:///home/hp/Downloads/IMG_20220811_040105.jpg![image](https://user-images.gi
 trash:///IMG_20220811_035947.jpg![image](https://user-images.githubusercontent.com/93143005/184499386-5f6c00e0-0403-4ee4-8f20-4602d62023ad.png)
 file:///home/hp/Downloads/IMG_20220811_035954.jpg![image](https://user-images.githubusercontent.com/93143005/184499422-9f8343c6-42d6-4faa-8276-96cb65d8ab27.png)
 
-##
+## Entropy of Decision Trees
+file:///home/hp/Downloads/IMG_20220811_035552.jpg![image](https://user-images.githubusercontent.com/93143005/184523022-c562e3f8-9e0b-4cda-b57c-131722840dec.png)
+## Information Gain in Decision Trees
+file:///home/hp/Downloads/IMG_20220811_035600.jpg![image](https://user-images.githubusercontent.com/93143005/184523031-44039e70-8825-471d-84d3-c865774c1a26.png)
+
