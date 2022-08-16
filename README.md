@@ -22,3 +22,4 @@ file:///home/hp/Downloads/IMG_20220811_035732.jpg![image](https://user-images.gi
 file:///home/hp/Downloads/IMG_20220811_035709.jpg![image](https://user-images.githubusercontent.com/93143005/184802663-be96dd8a-1772-435e-a8a9-da270e1ede18.png)
 ## Naive Baye's Classifier
 file:///home/hp/Downloads/IMG_20220811_035718.jpg![image](https://user-images.githubusercontent.com/93143005/184802768-8ec48ab2-a746-46c1-b510-253da44283d4.png)
+file:///home/hp/Downloads/IMG_20220811_035723.jpg![image](https://user-images.githubusercontent.com/93143005/184803537-e5a9be7e-e1f4-4e83-a445-bfbe572a5e61.png)
