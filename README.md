@@ -18,3 +18,7 @@ file:///home/hp/Downloads/IMG_20220811_035552.jpg![image](https://user-images.gi
 file:///home/hp/Downloads/IMG_20220811_035600.jpg![image](https://user-images.githubusercontent.com/93143005/184523031-44039e70-8825-471d-84d3-c865774c1a26.png)
 ## K nearest Neighbour Classification
 file:///home/hp/Downloads/IMG_20220811_035732.jpg![image](https://user-images.githubusercontent.com/93143005/184802300-6f643e57-d33d-43d8-8a10-2cc55fcee4f2.png)
+## Baye's Theorem
+file:///home/hp/Downloads/IMG_20220811_035709.jpg![image](https://user-images.githubusercontent.com/93143005/184802663-be96dd8a-1772-435e-a8a9-da270e1ede18.png)
+## Naive Baye's Classifier
+file:///home/hp/Downloads/IMG_20220811_035718.jpg![image](https://user-images.githubusercontent.com/93143005/184802768-8ec48ab2-a746-46c1-b510-253da44283d4.png)
